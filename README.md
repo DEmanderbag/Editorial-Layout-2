@@ -6,4 +6,4 @@ Inspiration from a [dribble shot](https://dribbble.com/shots/3259881-Editorial-L
 
 
 
-![alt text](https://github.com/DEmanderbag/Editorial-Layout/blob/master/editorial-layout2/img/Screenshot_2019-07-16%20EditorialLayout%232.jpg)
+![alt text](https://github.com/DEmanderbag/Editorial-Layout-2/blob/master/editorial-layout5/img/Screenshot_2019-07-16%20Editorial%20Layout%20%235%20(Map).png)
