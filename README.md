@@ -1,6 +1,6 @@
 # Editorial-Layout-2
 
-This website was made using FlexBox and CSS Grid. 
+An example of a mobile-friendly responsive layout that I created using CSS grid and Flexbox. Boxes of text correctly float over the image in all screen settings.
 
 Inspiration from a [dribble shot](https://dribbble.com/shots/3259881-Editorial-Layout-5-Map) made by [Dennys Hess](https://dribbble.com/dennyshess)
 
